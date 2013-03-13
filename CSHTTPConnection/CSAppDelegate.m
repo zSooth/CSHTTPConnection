@@ -8,13 +8,10 @@
 
 #import "CSAppDelegate.h"
 #import "CSHTTPConnection.h"
-#import "CSSecondConnection.h"
 
 @interface CSAppDelegate () <CSHTTPConnectionDelegate>
 
 @property (nonatomic, strong) CSHTTPConnection *connection;
-
-@property (nonatomic, strong) CSSecondConnection *sCon;
 
 @end
 
