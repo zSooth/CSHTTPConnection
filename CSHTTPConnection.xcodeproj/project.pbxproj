@@ -88,6 +88,7 @@
 		EADF9F3A16F08209004A6F91 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				EADF9F5B16F08229004A6F91 /* CFNetwork.framework */,
 				EADF9F3B16F08209004A6F91 /* UIKit.framework */,
 				EADF9F3D16F08209004A6F91 /* Foundation.framework */,
 				EADF9F3F16F08209004A6F91 /* CoreGraphics.framework */,
@@ -109,7 +110,6 @@
 		EADF9F4216F08209004A6F91 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				EADF9F5B16F08229004A6F91 /* CFNetwork.framework */,
 				EADF9F4316F08209004A6F91 /* CSHTTPConnection-Info.plist */,
 				EADF9F4416F08209004A6F91 /* InfoPlist.strings */,
 				EADF9F4716F08209004A6F91 /* main.m */,
