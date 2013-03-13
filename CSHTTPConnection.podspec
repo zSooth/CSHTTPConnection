@@ -10,5 +10,6 @@ Pod::Spec.new do |s|
   s.source_files = 'CSHTTPConnection', 'CSHTTP/**/*.{h,m}'
   s.framework  = 'CFNetwork'
   s.requires_arc = true
+
 end
 
